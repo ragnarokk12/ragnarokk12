@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragnarokk12
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# , and C++.
 
 
 <!---
